@@ -1,2 +1,2 @@
 # knightTourByRecursive
-solve knight tour problem by recursive
+solve knight tour problem by recursion
